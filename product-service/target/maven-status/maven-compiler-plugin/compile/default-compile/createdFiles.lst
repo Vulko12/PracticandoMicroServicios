@@ -1,0 +1,10 @@
+com\practicandoMicroservicios\Productservice\repository\ProductRepository.class
+com\practicandoMicroservicios\Productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\practicandoMicroservicios\Productservice\controller\ProductController.class
+com\practicandoMicroservicios\Productservice\dto\ProductResponse.class
+com\practicandoMicroservicios\Productservice\ProductServiceApplication.class
+com\practicandoMicroservicios\Productservice\service\ProductService.class
+com\practicandoMicroservicios\Productservice\model\Product$ProductBuilder.class
+com\practicandoMicroservicios\Productservice\dto\ProductRequest.class
+com\practicandoMicroservicios\Productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\practicandoMicroservicios\Productservice\model\Product.class

@@ -1,0 +1,8 @@
+com\practicandoMicroServicios\orderservice\dto\OrderRequest.class
+com\practicandoMicroServicios\orderservice\service\OrderService.class
+com\practicandoMicroServicios\orderservice\controller\OrderController.class
+com\practicandoMicroServicios\orderservice\dto\OrderLineItemsDto.class
+com\practicandoMicroServicios\orderservice\model\OrderLineItems.class
+com\practicandoMicroServicios\orderservice\OrderServiceApplication.class
+com\practicandoMicroServicios\orderservice\model\Order.class
+com\practicandoMicroServicios\orderservice\repository\OrderRepository.class
